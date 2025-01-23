@@ -47,7 +47,7 @@ To train a model, run the corresponding training script. For example, to train M
 ```bash
 python Mobile_ViT_train.py
 
-2. Inference
+### 2. **Inference**
 To perform inference using a trained model, run the corresponding inference script. For example, to run inference with Swin Transformer V2:
 python Swin_Transformer_V2_inference.py
 
